@@ -101,6 +101,10 @@ end
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
+### Image hosted in this repo
+
+![GenericImage](./images/prob3.jpg).
+
 
 ### Definition lists can be used with HTML syntax.
 
