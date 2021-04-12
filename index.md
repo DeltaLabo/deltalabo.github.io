@@ -30,7 +30,7 @@ Falta la descripción
 ## Members
 ### Faculty
 
-| ![Otarola](otarola.jpg)                           | ![JuanJosé](./images/juanjotec.jpg)                   |
+| ![Otarola](./images/otarola.jpg)                  | ![JuanJosé](./images/juanjotec.jpg)                   |
 | :-----------:                                     | :-----------:                                         |
 | M Eng. Carlos Otárola Zúñiga                      | PhD. Eng. Juan José Rojas Hernández                   |
 | Coordinator                                       | Researcher                                            |
