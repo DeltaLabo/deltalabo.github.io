@@ -15,7 +15,7 @@ Falta la descripción
 
 This project presents the implementation of Internet of Things (IoT) technologies as a key tool in the compilation of water data that will be input for the management of water resources for the main aqueduct of ASADA. The intercommunication of Arad Octave hydro metering devices, liquid level sensors on main tank and the electrical control for pump station was proposed, through the use of a LoRaWAN network and the MQTT communication protocol for remote operation and data publication on the IoT Adafruit IO platform.
 
-[_More information_](./another-page.html)
+[_More information_](./ProyectoSergio.html)
 ### ESP32 based embedded logger and cloud uploader for wind turbine efficiency data for LIENE (Nestor Martinez Soto)
 Falta la descripción
 [_More information_](./another-page.html)
@@ -41,7 +41,13 @@ Falta la descripción
 
 ### Assistants
 
-
+| Name                              | Degree                            | Email                     |
+|:-------------                     |:------------------                |:------                    |
+| Jairo Rodríguez Blanco            | Mecatronics Engineering           | jairo.rb8@estudiantec.cr  |
+| Sergio Solórzano Alfaro           | Industrial Maintenance Engineering| solorzanos117@gmail.com   |
+| Erick Quirós Gómez                | Industrial Maintenance Engineering| erickquigo@estudiantec.cr |
+| Nestor Martínez solution          | Industrial Maintenance Engineering|                       |
+| Jervis Villalobos Villegas        | Mechatronics Engineering          |                       |
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
