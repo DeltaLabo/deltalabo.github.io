@@ -2,6 +2,42 @@
 layout: default
 title: Delta Lab
 ---
+# Delta Lab
+Is a research laboratory located at the Electromechanical Engineering Faculty at Tecnológico de Costa Rica, Cartago Campus. It's objective is to provide a space where researchers from Tecnológico de Costa Rica can work on their projects within a multidisciplinary environment.
+
+Fields currently being worked on include IoT, Industry 4.0, Automation, Additive Manufacturing, Plasma and Material Sciences.
+
+## Active projects:
+### Triphasic compressor monitoring and cloud uploading firmware with ESP32 (Erick Quirós Gómez)
+Falta la descripción
+[_More information_](./another-page.html)
+### LoRa based control and logging system for acueduct ASADA-Samara (Sergio Solórzano Alfaro)
+Falta la descripción
+[_More information_](./another-page.html)
+### ESP32 based embedded logger and cloud uploader for anemmometer data for LIENE (Nestor Martinez ???)
+Falta la descripción
+[_More information_](./another-page.html)
+### Modification of a CubePro Trio to implement a Duet Wifi 2 and Dyzedesign extruders (Jairo Rodríguez Blanco & Jeroen van Hoof Gómez)
+Falta la descripción
+[_More information_](./another-page.html)
+### Plasmas Jervis
+Falta la descripción
+[_More information_](./another-page.html)
+### Acetona Maite
+Falta la descripción
+[_More information_](./another-page.html)
+
+## Members
+### Faculty
+
+| ![Otarola](otarola.jpg)                           | ![JuanJosé](./images/juanjotec.jpg)                   |
+| :-----------:                                     | :-----------:                                         |
+| M Eng. Carlos Otárola Zúñiga                      | PhD. Eng. Juan José Rojas Hernández                   |
+| Coordinator                                       | Researcher                                            |
+| _Modern Manufacturing_                            | _Power Systems and IoT_                               |
+| [cotarola@tec.ac.cr](mailto:cotarola@tec.ac.cr)   | [juan.rojas@tec.ac.cr](mailto:juan.rojas@tec.ac.cr)   |
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
