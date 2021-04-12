@@ -8,19 +8,21 @@ Is a research laboratory located at the Electromechanical Engineering Faculty at
 Fields currently being worked on include IoT, Industry 4.0, Automation, Additive Manufacturing, Plasma and Material Sciences.
 
 ## Active projects:
-### Triphasic compressor monitoring and cloud uploading firmware with ESP32 (Erick Quirós Gómez)
+### Three-phase compressor monitoring and cloud uploading firmware with ESP32 (Erick Quirós Gómez)
 Falta la descripción
 [_More information_](./another-page.html)
-### LoRa based control and logging system for acueduct ASADA-Samara (Sergio Solórzano Alfaro)
-Falta la descripción
+### LoRa based control and logging IoT system for acueduct ASADA-Sámara (Sergio Solórzano Alfaro)
+
+This project presents the implementation of Internet of Things (IoT) technologies as a key tool in the compilation of water data that will be input for the management of water resources for the main aqueduct of ASADA. The intercommunication of Arad Octave hydro metering devices, liquid level sensors on main tank and the electrical control for pump station was proposed, through the use of a LoRaWAN network and the MQTT communication protocol for remote operation and data publication on the IoT Adafruit IO platform.
+
 [_More information_](./another-page.html)
-### ESP32 based embedded logger and cloud uploader for anemmometer data for LIENE (Nestor Martinez ???)
+### ESP32 based embedded logger and cloud uploader for wind turbine efficiency data for LIENE (Nestor Martinez Soto)
 Falta la descripción
 [_More information_](./another-page.html)
 ### Modification of a CubePro Trio to implement a Duet Wifi 2 and Dyzedesign extruders (Jairo Rodríguez Blanco & Jeroen van Hoof Gómez)
 Falta la descripción
 [_More information_](./another-page.html)
-### Plasmas Jervis
+### Modular support structure for superconductor coils | Phase II (Carlos Otárola Zúñiga)
 Falta la descripción
 [_More information_](./another-page.html)
 ### Acetona Maite
@@ -36,6 +38,8 @@ Falta la descripción
 | Coordinator                                       | Researcher                                            |
 | _Modern Manufacturing_                            | _Power Systems and IoT_                               |
 | [cotarola@tec.ac.cr](mailto:cotarola@tec.ac.cr)   | [juan.rojas@tec.ac.cr](mailto:juan.rojas@tec.ac.cr)   |
+
+### Assistants
 
 
 
