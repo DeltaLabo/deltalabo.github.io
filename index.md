@@ -17,7 +17,7 @@ This project presents the implementation of Internet of Things (IoT) technologie
 
 [_More information_](./ProyectoSergio.html)
 ### ESP32 based embedded logger and cloud uploader for wind turbine efficiency data for LIENE (Nestor Martinez Soto)
-Falta la descripción
+Development of a low-cost system for wind turbine efficiency data gathering and logging. It shall allow the Wind Energy Research Lab (LIENE) log and visualize operation data, which increases it's capabilities for future projects.
 [_More information_](./another-page.html)
 ### Modification of a CubePro Trio to implement a Duet Wifi 2 and Dyzedesign extruders (Jairo Rodríguez Blanco & Jeroen van Hoof Gómez)
 Falta la descripción
@@ -46,8 +46,8 @@ Falta la descripción
 | Jairo Rodríguez Blanco            | Mecatronics Engineering           | jairo.rb8@estudiantec.cr  |
 | Sergio Solórzano Alfaro           | Industrial Maintenance Engineering| solorzanos117@gmail.com   |
 | Erick Quirós Gómez                | Industrial Maintenance Engineering| erickquigo@estudiantec.cr |
-| Nestor Martínez solution          | Industrial Maintenance Engineering|                       |
-| Jervis Villalobos Villegas        | Mechatronics Engineering          |                       |
+| Nestor Martínez Soto              | Industrial Maintenance Engineering| nesmar@estudiantec.cr     |
+| Jervis Villalobos Villegas        | Mechatronics Engineering          |                           |
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
