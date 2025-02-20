@@ -3,9 +3,12 @@ layout: default
 title: Delta Lab
 ---
 # Delta Lab
-Is a research laboratory located at the Electromechanical Engineering Faculty at Tecnológico de Costa Rica, Cartago Campus. It's objective is to provide a space where researchers from Tecnológico de Costa Rica can work on their projects within a multidisciplinary environment.
+The Delta Laboratory was founded in 2017 as a collaborative space for researchers from the School of Electromechanical Engineering at the Costa Rican Institute of Technology. Over time, DeltaLab has specialized in the integration of cyber-physical systems, microfluidics applications, and additive manufacturing, driving innovative solutions with academic and social impact. Its main research lines include:
 
-Fields currently being worked on include IoT, Industry 4.0, Automation, Additive Manufacturing, Plasma and Material Sciences.
+Integration of tailor-made systems for initiatives with social and/or environmental impact
+Integration of space systems and testing technologies for these systems
+Development of microfluidics applications for industrial and biomedical uses
+Integration of additive manufacturing with emerging fields of science and technology for the development of new products and applications
 
 ## Active projects:
 ### Three-phase compressor monitoring and cloud uploading firmware with ESP32 (Erick Quirós Gómez)
