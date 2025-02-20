@@ -5,10 +5,10 @@ title: Delta Lab
 # Delta Lab
 The Delta Laboratory was founded in 2017 as a collaborative space for researchers from the School of Electromechanical Engineering at the Costa Rican Institute of Technology. Over time, DeltaLab has specialized in the integration of cyber-physical systems, microfluidics applications, and additive manufacturing, driving innovative solutions with academic and social impact. Its main research lines include:
 
-Integration of tailor-made systems for initiatives with social and/or environmental impact
-Integration of space systems and testing technologies for these systems
-Development of microfluidics applications for industrial and biomedical uses
-Integration of additive manufacturing with emerging fields of science and technology for the development of new products and applications
+* Integration of tailor-made systems for initiatives with social and/or environmental impact
+* Integration of space systems and testing technologies for these systems
+* Development of microfluidics applications for industrial and biomedical uses
+* Integration of additive manufacturing with emerging fields of science and technology for the development of new products and applications
 
 ## Active projects:
 ### Three-phase compressor monitoring and cloud uploading firmware with ESP32 (Erick Quirós Gómez)
